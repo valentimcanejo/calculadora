@@ -4,6 +4,7 @@
 
 <p align="justify"> Esta é uma calculadora simples feita em React, baseada na calculadora do Mac.</p>
 
+<hr>
+<br>
 
-
-<img src="https://i.imgur.com/ZPo7vW1.png" width="600px" height="300px"/>
+<img src="https://i.imgur.com/ZPo7vW1.png" />
