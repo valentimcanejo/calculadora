@@ -2,5 +2,5 @@
 
 <h1 align="center"> Calculadora feita em React</h1>
 
-Esta é uma calculadora simples feita em React, baseada na calculadora do Mac.
+<p align="justify"> Esta é uma calculadora simples feita em React, baseada na calculadora do Mac.</p>
 
